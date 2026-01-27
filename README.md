@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Umar 👋
+🎓 Computer Engineering Student  
+💻 Web Developer | Data Science Learner  
+🚀 Building projects in JavaScript, Python & MEAN Stack  
 
-<!--
-**umar601/umar601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack
+- HTML, CSS, JavaScript
+- Python (NumPy, Pandas)
+- MongoDB, Express, Angular, Node
+- SQL, Git, GitHub
 
-Here are some ideas to get you started:
+### 📌 Current Projects
+- Railway Reservation System
+- Emergency App for Pakistan 🇵🇰
+- Web Scraping & Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- LinkedIn: your-link
+- Email: your-email
