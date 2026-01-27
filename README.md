@@ -1,19 +1,19 @@
 ## Hi, I'm Umar 👋
-🎓 Computer Engineering Student  
+🎓 Computer Science Student  
 💻 Web Developer | Data Science Learner  
-🚀 Building projects in JavaScript, Python & MEAN Stack  
+🚀 Building projects in JavaScript, Python & MERN Stack  
 
 ### 🔧 Tech Stack
 - HTML, CSS, JavaScript
 - Python (NumPy, Pandas)
-- MongoDB, Express, Angular, Node
+- MongoDB, Express,React Node
 - SQL, Git, GitHub
 
 ### 📌 Current Projects
 - Railway Reservation System
-- Emergency App for Pakistan 🇵🇰
+- Airbnb
 - Web Scraping & Data Analysis
 
 ### 📫 Connect with me
-- LinkedIn: your-link
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/umar-abbas-210b0931a/
+- Email: umarshah6444@gmail.com
